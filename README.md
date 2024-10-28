@@ -41,7 +41,3 @@ A **Support Vector Machine (SVM)** classifier with a linear kernel is used to tr
 - `numpy`
 - `librosa`
 - `scikit-learn`
-
-Install the required packages using:
-```bash
-pip install numpy librosa scikit-learn

@@ -1,2 +1,2 @@
 # speech-emotion-recog
-Using MFCCs and SVMs to perform speech emotion recognition
+Using MFCCs and SVMs to perform speech emotion recognition on the *RAVDESS* dataset, obtained from Kaggle.
